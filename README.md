@@ -23,14 +23,15 @@ a. Fundamentals of UI and UX:
 UI (User Interface) is the visual part of a website, application, or software that users interact with. It includes buttons, colors, fonts, icons, images, menus, and layouts.
 UX (User Experience) refers to the overall experience a user gets while using a product. It focuses on usability, accessibility, user needs, and how easily users can complete their tasks.
 
-b. 
+b.
+```
 | UI                                     | UX                                     |
 |_______________________________________ |_______________________________________ |
 | Focuses on visual appearance           | Focuses on overall experience          |
 | Includes colors, fonts, icons, buttons | Includes research, user flows, testing |
 | Makes the product visually attractive  | Makes the product easy and useful      |
 | Deals with screen design               | Deals with the complete user journey   |
-
+```
 c. 
 UI is a subset of the broader UX. UX defines the strategy — who the user is and how the journey should flow — while UI gives that strategy a visual, touchable form.
 
@@ -39,6 +40,7 @@ Analogy: UX is the overall driving experience of a car (comfort, safety, intuiti
 Design process flow: UX research & flows → Wireframes → UI visual design → Usability testing → Refine both.
 
 d.
+```
 Different tools are used at different stages of UI/UX design.
 | Tool         | Main Purpose              | Common Uses                         |
 | ____________ | _________________________ | ___________________________________ |
@@ -50,7 +52,7 @@ Different tools are used at different stages of UI/UX design.
 | **Balsamiq** | Wireframing               | Low-fidelity wireframes             |
 | **Sketch**   | UI design                 | Interfaces and prototypes           |
 | **InVision** | Prototyping               | Interactive prototypes and feedback |
-
+```
 
 ## Result:
 The fundamentals of UI and UX were studied and their differences were identified using real-world examples. The relationship between UI and UX in creating user-friendly digital products was understood. Various UI/UX design tools such as Figma, Adobe XD, Canva, Miro, FigJam, and Balsamiq were also explored. Thus, the importance of UI and UX in designing effective and user-friendly digital products was understood.
